@@ -13,6 +13,7 @@
 			 "type":"div",
 			"class":"left",
 			   "id":"id-for-left",
+			 "text":"Click for action",
 			"click":"clickOnDiv"
 		}
 	]
